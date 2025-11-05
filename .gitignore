@@ -1,0 +1,3 @@
+model/dinov2_base/
+model/dinov2_base/models--facebook--dinov2-base/blobs/*
+
